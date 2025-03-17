@@ -6,6 +6,9 @@ import InputText from 'primevue/inputtext';
 import { ref } from 'vue';
 
 const text = ref('');
+let a=1;
+console.log(a);
+
 </script>
 
 <template>
